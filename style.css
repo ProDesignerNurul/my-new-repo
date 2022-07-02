@@ -1,0 +1,14 @@
+h1{
+    color: white;
+    font-size: 30px;
+    background-color: brown;
+    text-align: center;
+}
+div {
+    height: 100px;
+    width: 100px;
+    background-color: darkorange;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
