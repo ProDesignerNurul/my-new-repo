@@ -1,15 +1,47 @@
-h1{
-    color: white;
-    font-size: 30px;
-    background-color: brown;
+
+.header-div{
+    height: 400px;
+    width: 100%;
+    background-color:bisque;
+    border-radius: 10px;
+}
+.header-div h1{
+    font-size: 60px;
+    color: darkmagenta;
     text-align: center;
 }
-div {
-    height: 100px;
-    width: 100px;
-    background-color: darkorange;
-    float: left;
-    margin-left: 20px;
+.header-div p{
     text-align: center;
-
+}
+div{
+    margin-bottom: 100px;
+}
+div h3{
+    text-align: center;
+}
+.amazon-products img{
+    width: 28%;
+    margin: 2%;
+    border: 2px dotted darkgray;
+    border-radius: 10px;
+}
+.amazon-products h1{
+    text-align: center;
+    font-size: 30px;
+    color:darkorange ;
+}
+.my-skills h1{
+    text-align: center;
+    font-size: 30px;
+    color:darkorange ;
+}
+.my-skills img{
+    width: 9%;
+    margin: 5px;
+    border-radius: 20px;
+    border: 2px dotted darkgray;
+}
+h4{
+    text-align: center;
+    color: darkgray;
 }
